@@ -27,12 +27,12 @@ msgstr ""
 #: api.py:47
 #, python-format
 msgid "Vat in: %s"
-msgstr "DIČ: %s"
+msgstr "Iva in: %s"
 
 #: api.py:50
 #, python-format
 msgid "IR: %s"
-msgstr "IČ: %s"
+msgstr "IR: %s"
 
 #: pdf.py:51
 #, python-format
@@ -58,15 +58,15 @@ msgstr "Informazioni pagamento"
 
 #: pdf.py:204
 msgid "Account n."
-msgstr "Account n."
+msgstr "Account num."
 
 #: pdf.py:205
 msgid "Variable symbol"
-msgstr "Variabilní sym."
+msgstr "Simbolo variabile"
 
 #: pdf.py:209
 msgid "Specific symbol"
-msgstr "Specifický sym."
+msgstr "Simbolo specifico"
 
 #: pdf.py:221
 msgid "List of items"
@@ -78,7 +78,7 @@ msgstr "Descrizione"
 
 #: pdf.py:227 pdf.py:240
 msgid "Units"
-msgstr "Jednotek"
+msgstr "Unità"
 
 #: pdf.py:229 pdf.py:242
 msgid "Price per one"
@@ -98,7 +98,7 @@ msgstr "Prezzo totale con tasse"
 
 #: pdf.py:320
 msgid "Rounding"
-msgstr "Haléřové vyrovnání"
+msgstr "Arrotondamento"
 
 #: pdf.py:331
 msgid "Total"
@@ -106,11 +106,11 @@ msgstr "Totale"
 
 #: pdf.py:334
 msgid "Breakdown VAT"
-msgstr "Rozpis DPH"
+msgstr "Partizione IVA"
 
 #: pdf.py:335
 msgid "VAT rate"
-msgstr "Sazba"
+msgstr "Aliquota IVA"
 
 #: pdf.py:335
 msgid "Without VAT"
@@ -130,41 +130,41 @@ msgstr "Creatore"
 
 #: InvoiceGenerator/pdf.py:402
 msgid "Date of exposure taxable invoice"
-msgstr "Den vystavení daňového dokladu"
+msgstr "Data di emissione della fattura"
 
 msgid "Taxable invoice num.: %s"
-msgstr "Daňový doklad č.: %s"
+msgstr "Fattura imponibile num.: %s"
 
 #: pdf.py:404 pdf.py:465
 msgid "Due date"
-msgstr "Splatnost"
+msgstr "Scadenza"
 
 #: pdf.py:406
 msgid "Taxable date"
-msgstr "Datum zdanitelného plnění"
+msgstr "Data imponibile"
 
 #: pdf.py:410 pdf.py:468
 msgid "Paytype"
-msgstr "Typ platby"
+msgstr "Tipo di pagamento"
 
 #: pdf.py:443
 #, python-format
 msgid "Correcting document: %s"
-msgstr "Opravný daňový doklad: %s"
+msgstr "Correzione del documento: %s"
 
 #: pdf.py:449
 #, python-format
 msgid "Correction document for invoice: %s"
-msgstr "Opravný daňový doklad k daňovému dokladu: %s"
+msgstr "Documento di correzione per fattura: %s"
 
 #: pdf.py:450
 #, python-format
 msgid "Reason to correction: %s"
-msgstr "Důvod opravy: %s"
+msgstr "Motivo della correzione: %s"
 
 #: pdf.py:463
 msgid "Date of exposure"
-msgstr "Datum vystavení"
+msgstr "Data di emissione"
 
 msgid "Document num.: %s"
-msgstr "Doklad č.: %s"
+msgstr "Documento num.: %s"
